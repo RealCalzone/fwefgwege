@@ -1,7 +1,7 @@
 {
-  "name": "Lol",
+  "name": "Lmao",
   "version": "1.0",
-  "description": "Lines And Lines And Lines theme :)",
+  "description": "Vamp Anime Girl",
   "authors": [
     {
       "name": "Cal-Zone",
@@ -30,15 +30,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#7f239e",
+      "#8f150a",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DCDDDE",
+      "#6b0000",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#af65f0",
+      "#d62515",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -91,7 +91,7 @@
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#171717",
-      "#FFFFFF"
+      "#542ca3"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#171717",
@@ -122,7 +122,7 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#aa14f5",
+      "#ed2828",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
@@ -130,7 +130,7 @@
       "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#aa14f5",
+      "#d62515",
       "#6c56c4"
     ]
   },
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/723072807835271208/1011071443703963698/unknown_1.png?width=414&height=585",
+    "url": "https://media.discordapp.net/attachments/723072807835271208/1011074043522326528/unknown_395x655.png?width=353&height=585",
     "alpha": 1.0
   }
 }
