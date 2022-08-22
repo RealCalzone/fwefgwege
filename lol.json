@@ -1,10 +1,10 @@
 {
-  "name": "LinesAndLines",
+  "name": "Lol",
   "version": "1.0",
   "description": "Lines And Lines And Lines theme :)",
   "authors": [
     {
-      "name": "melonwer",
+      "name": "Cal-Zone",
       "id": "848518188195250176"
     }
   ],
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/542102194409963542/1011069141391790220/unknown_1.png?width=414&height=585",
+    "url": "https://media.discordapp.net/attachments/723072807835271208/1011071443703963698/unknown_1.png?width=414&height=585",
     "alpha": 1.0
   }
 }
